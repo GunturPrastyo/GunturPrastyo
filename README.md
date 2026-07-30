@@ -22,9 +22,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guntur-prastyo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prastyoguntur982@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GunturPrastyo&theme=radium&hide_border=true" alt="Guntur's GitHub Streak Stats" />
-</div>
