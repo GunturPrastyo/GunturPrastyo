@@ -1,16 +1,8 @@
 # Hi there 👋, I'm Guntur Prastyo
 ### Full Stack Developer | Software Engineer
 
-Saya adalah seorang **Full Stack Developer** yang berfokus pada pengembangan platform web berskala tinggi. Saya memiliki pengalaman merancang RESTful API, mengelola autentikasi & otorisasi, mengoptimalkan performa halaman (SEO & Core Web Vitals), hingga mengelola infrastruktur server. Saya merupakan lulusan Pendidikan Teknik Informatika dan Komputer, Universitas Negeri Semarang.
 
-- 🔭 Saat ini sedang mengembangkan: **Platform E-Learning Adaptif "KELAS"** (Next.js & Express.js)
-- 🌱 Sedang mendalami: **Arsitektur Microservices, Redis Caching, & Docker**
-- 💬 Tanya saya tentang: **MERN Stack, Next.js, Laravel, REST API, & Performa Web**
-- 📫 Hubungi saya: **prastyoguntur982@gmail.com**
-
----
-
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,26 +30,7 @@ Saya adalah seorang **Full Stack Developer** yang berfokus pada pengembangan pla
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-### 🚀 Featured Projects
-
-*   **KELAS - Adaptive E-Learning Platform** ([Demo](https://kelas-edu.vercel.app))
-    Platform MOOC berskala tinggi menggunakan algoritma *Rule-Based Sequencing* untuk rekomendasi alur belajar otomatis. Dibangun dengan Next.js App Router, Express.js, MongoDB. Mendapatkan skor Core Web Vitals 90+ di Google PageSpeed.
-*   **Sistem PPDB Online & Website Sekolah**
-    Aplikasi penerimaan siswa baru terpusat yang dibangun menggunakan Vue.js dan RESTful API dari Laravel.
-*   **GIS Pemetaan Sekolah Kota Semarang (Diskominfo)**
-    Sistem Informasi Geografis untuk pemetaan dan visualisasi data pendidikan di wilayah Kota Semarang.
-
----
-
-### 🏆 Certifications
-
-*   **Software Engineer, Frontend Developer (React), Rest API, & SQL** - HackerRank
-*   **MongoDB Document Model & CRUD Operations** - MongoDB University
-
----
-
-### 🤝 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guntur-prastyo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prastyoguntur982@gmail.com)
