@@ -25,4 +25,6 @@
 
 ---
 
-[![Guntur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunturPrastyo&show_icons=true&theme=radium)](https://github.com/GunturPrastyo)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=GunturPrastyo&theme=radium&hide_border=true" alt="Guntur's GitHub Streak Stats" />
+</div>
