@@ -1,6 +1,6 @@
-### 🏆 GitHub Trophies
+### 📊 GitHub Statistic
 
-[![Guntur's Trophies](https://github-profile-trophy.vercel.app/?username=GunturPrastyo&theme=algolia&no-frame=true&margin-w=15)](https://github.com/GunturPrastyo)
+[![Guntur's GitHub Streak](https://streak-stats.demolab.com/?user=GunturPrastyo&theme=algolia&hide_border=true)](https://github.com/GunturPrastyo)
 
 ### 💻 Tech Stack & Tools
 <p align="left">
