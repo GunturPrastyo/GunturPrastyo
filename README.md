@@ -1,10 +1,10 @@
-### GitHub Statistic
+### 📊 GitHub Statistic
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GunturPrastyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunturPrastyo&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-### Tech Stack & Tools
+### 💻 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
