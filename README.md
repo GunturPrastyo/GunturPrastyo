@@ -1,6 +1,6 @@
-### 📈 GitHub Activity Graph
+### 🏆 GitHub Trophies
 
-[![Guntur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunturPrastyo&theme=react-dark&hide_border=true)](https://github.com/GunturPrastyo)
+[![Guntur's Trophies](https://github-profile-trophy.vercel.app/?username=GunturPrastyo&theme=algolia&no-frame=true&margin-w=15)](https://github.com/GunturPrastyo)
 
 ### 💻 Tech Stack & Tools
 <p align="left">
