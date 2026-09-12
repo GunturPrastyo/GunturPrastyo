@@ -1,4 +1,4 @@
-###  GitHub Statistic
+### 📊 GitHub Statistic
 
 [![Guntur's GitHub Streak](https://streak-stats.demolab.com/?user=GunturPrastyo&theme=algolia&hide_border=true)](https://github.com/GunturPrastyo)
 
