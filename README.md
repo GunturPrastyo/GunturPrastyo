@@ -1,8 +1,8 @@
 ### 📊 GitHub Statistic
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GunturPrastyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunturPrastyo&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+
+[![Guntur's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunturPrastyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/GunturPrastyo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunturPrastyo&layout=compact&langs_count=8&theme=algolia)](https://github.com/GunturPrastyo)
 
 ### 💻 Tech Stack & Tools
 <p align="left">
