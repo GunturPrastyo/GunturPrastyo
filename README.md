@@ -1,6 +1,6 @@
-### 📊 GitHub Statistic
+### 📈 GitHub Activity Graph
 
-[![Guntur's GitHub Streak](https://streak-stats.demolab.com/?user=GunturPrastyo&theme=algolia&hide_border=true)](https://github.com/GunturPrastyo)
+[![Guntur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunturPrastyo&theme=react-dark&hide_border=true)](https://github.com/GunturPrastyo)
 
 ### 💻 Tech Stack & Tools
 <p align="left">
