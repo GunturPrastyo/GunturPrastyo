@@ -1,8 +1,8 @@
-### 📊 GitHub Statistic
+### GitHub Statistic
 
 [![Guntur's GitHub Streak](https://streak-stats.demolab.com/?user=GunturPrastyo&theme=algolia&hide_border=true)](https://github.com/GunturPrastyo)
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
